@@ -212,6 +212,7 @@ footer{
 .siguenos{
     display: flex;
     justify-content: center;
+    margin-top: 50px;
 }
 
 
@@ -228,4 +229,71 @@ footer{
     height: 35px;
     background-color: white;
     color: black;
+}
+
+.pag6{
+    height: 500px;
+}
+
+.pag6-encabezado{
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.viñetas{
+    display: flex;
+    justify-content: center;
+}
+
+.tarjetas-1{
+    width: 280px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(./viñeta1.JPG);
+    color: #ffffff;
+}
+
+.tarjetas-2{
+    width: 280px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(./viñetas2.JPG);
+    color: #ffffff;
+}
+
+.tarjetas-3{
+    width: 280px;
+    height: 400px;
+    margin: 20px;
+    padding: 20px;
+    background-image: url(./viñetas3.JPG);
+    color: #ffffff;
+}
+
+.pag7{
+    background-image: url(./4.JPG);
+    height: 500px;
+    color: #ffffff;
+}
+
+.pag7-img{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.ven{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.final{
+    display: flex;
+    justify-content: space-around;
 }
